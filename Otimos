@@ -1,4 +1,4 @@
-local ANIME_WARRIORS_SIMULATOR_2_ID= = 8425128940 
+local ANIME_WARRIORS_SIMULATOR_2_ID = 8425128940 
  if game.PlaceId ~= ANIME_WARRIORS_SIMULATOR_2_ID then return end 
   
  _G.disabled = false 
