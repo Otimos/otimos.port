@@ -13,7 +13,7 @@ local ANIME_WARRIORS_SIMULATOR_2_ID = 8425128940
   
  -- init 
  local NAME = "QUEM É (OTIMOS ±_±)? / https://discord.gg/j6RCvBSUUf" 
- local library =  loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/TinyTask%20Hub/ui.lua"))() 
+ local library =  loadstring(game:HttpGet("https://raw.githubusercontent.com/Otimos/rip.OTIMOS/main/rip.OTIMOS"))() 
  local GUI = library.new(NAME) 
   
  local HS = game:GetService("HttpService") 
@@ -2012,5 +2012,4 @@ local ANIME_WARRIORS_SIMULATOR_2_ID = 8425128940
              raidTPback = nil 
          end) 
      end 
- 
  warn("Script fully loaded!")
